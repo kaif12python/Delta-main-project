@@ -10,13 +10,9 @@ User Profiles: Personalized profiles with booking history.
 
 # Technologies used
 # Frontend:
-1.HTML
-2.CSS
-3.JavaScript
+HTML, CSS, JavaScript
 # Backend
-1.Node.js
-2.Express.js
-3.MongoDB
+Node. js, Express. js, MongoDB
 
 # Usage
 Sign up or log in.
