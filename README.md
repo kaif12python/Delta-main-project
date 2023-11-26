@@ -1,4 +1,4 @@
-# Wanderhub:Airbnb Clone 
+# Wanderhub: Airbnb Clone 
 # About
 Wanderhub is a project created as part of the Full Stack Web Developer Delta Course from Apna College. It is an Airbnb clone that allows users to discover and book accommodations for their travels.
 
